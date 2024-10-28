@@ -1,6 +1,7 @@
 nginx
 mysql
 redis
+minio
 jenkins
 elasticsearch
 # 指定架构

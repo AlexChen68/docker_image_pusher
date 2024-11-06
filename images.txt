@@ -1,7 +1,7 @@
 nginx
 mysql
 redis
-minio
+minio/minio
 # jenkins
 # elasticsearch
 # 指定架构

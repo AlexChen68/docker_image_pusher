@@ -1,7 +1,7 @@
-nginx
-mysql
-redis
+mysql:8.0.40
+redis:7.0.14
 minio/minio
+nginx:1.21.1
 # jenkins
 # elasticsearch
 # 指定架构

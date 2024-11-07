@@ -1,6 +1,6 @@
 mysql:8.0
-#redis:7.0.14
-#nginx:1.21.1
+redis:7.0.14
+nginx:1.21.1
 # minio/minio
 # jenkins
 # elasticsearch

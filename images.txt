@@ -1,8 +1,6 @@
 mysql:8.0
 redis:7.0.14
 nginx:1.21.1
-# minio/minio
-# jenkins
-# elasticsearch
+ynraju4/oracle18c:18.3.0-ee
 # 指定架构
 # --platform=linux/arm64 

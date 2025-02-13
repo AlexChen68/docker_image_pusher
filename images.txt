@@ -4,5 +4,6 @@ nginx:1.21.1
 ynraju4/oracle18c:18.3.0-ee
 minio/minio:latest
 clickhouse:latest
+kafka:latest
 # 指定架构
 # --platform=linux/arm64 

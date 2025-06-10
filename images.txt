@@ -6,5 +6,6 @@ minio/minio:latest
 clickhouse:latest
 bitnami/kafka:latest
 nacos/nacos-server:v2.4.3
+nacos/nacos-server:v3.0.1
 # 指定架构
 # --platform=linux/arm64 
